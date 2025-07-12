@@ -1,5 +1,5 @@
 {
-    "latest_version": "1.2.1",
+    "latest_version": "1.2.2",
     "download_url": "https://github.com/dspillmangj/SUNDAY/releases/latest/download/SUNDAY_Update.zip",
     "sha256": "eb5695fbe9bc53f57b4da39283cc4dd184204afab063ca39c15ec9c01ccfe0a4",
     "notes": "\ud83c\udf89 Added update check, version control, and hash validation."

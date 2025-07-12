@@ -10,7 +10,7 @@ from datetime import datetime
 APP_FOLDER = "SUNDAY"
 OUTPUT_ZIP = "SUNDAY_Update.zip"
 LATEST_JSON = "latest.json"
-VERSION = "1.2.1"
+VERSION = "1.2.2"
 NOTES = "🎉 Added update check, version control, and hash validation."
 DOWNLOAD_URL = "https://github.com/dspillmangj/SUNDAY/releases/latest/download/SUNDAY_Update.zip"
 PUSH_TO_GITHUB = True  # Set to False if you don't want it to auto-push
